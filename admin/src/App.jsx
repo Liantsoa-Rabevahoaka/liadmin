@@ -1,11 +1,11 @@
-
+import Home from "./pages/home/Home"
 function App() {
 
   return (
     <>
-      Li admin   dev
+      <Home/>
     </>
-  )
+  ) 
 }
 
 export default App
